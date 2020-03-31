@@ -1,0 +1,11 @@
+name: nsili 
+version: 1.10.0
+title: NSILI 
+start_page: index.adoc 
+nav:
+- modules/ROOT/nav.adoc
+- modules/managing/nav.adoc
+- modules/applicationReferences/nav.adoc
+- modules/metadataReference/nav.adoc
+- modules/reference/nav.adoc
+

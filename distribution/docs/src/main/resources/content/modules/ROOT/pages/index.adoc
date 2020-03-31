@@ -1,0 +1,7 @@
+= Codice NSILI
+
+== Codice NSILI Features
+
+Federated Source and Endpoint implementations of **STANAG 4559** to allow interoperability with other systems that implement the NSILI specification.
+
+- https://github.com/codice/NSILI/blob/master/catalog-nsili-sourcestoquery-ui/README.md[catalog-nsili-sourcestoquery-ui]: Admin Console Plugin for configuring sources to query from NSILI endpoint.

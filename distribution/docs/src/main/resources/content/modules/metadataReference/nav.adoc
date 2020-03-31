@@ -1,0 +1,2 @@
+.Metadata Reference
+* xref:metadataReference:nsili-attributes-table.adoc[NSILI (STANAG 4559) to Catalog Taxonomy Attribute Mappings]

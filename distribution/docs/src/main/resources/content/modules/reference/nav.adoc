@@ -1,0 +1,2 @@
+.Application Reference
+* xref:reference:applicationReferences/mg-nsili.adoc[{alliance-nsili}]

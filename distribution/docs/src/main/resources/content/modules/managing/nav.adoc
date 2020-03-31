@@ -1,0 +1,3 @@
+.Configuring
+* xref:managing:configuring/configuring-nsili-endpoint.adoc[Configuring NSILI Endpoint]
+* xref:managing:configuring/sources/nsili-federated.adoc[NSILI Federated Source]

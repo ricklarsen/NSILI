@@ -9,28 +9,27 @@
 :storageprovider:
 :catalogstore:
 
-== {title}
-
+= NSILI Federated Source
 
 Use the NSILI Federated source to connect to a NSILI (STANAG 4559) compliant service.
 
 .Installing the NSILI Federated Source
 
-Configure a new NSILI Federated Source through the ${admin-console}:
+Configure a new NSILI Federated Source through the {admin-console}:
 
-* Navigate to the *${admin-console}*.
-* Select the *${ddf-catalog}* application.
+* Navigate to the *{admin-console}*.
+* Select the *{ddf-catalog}* application.
 * Select the *Sources* tab.
 * Add a New source.
 * Name the New source.
 * Select *NSILI Federated Source* from *Binding Configurations*.
 
 .Configuring the NSILI Federated Source
-Configure an existing NSILI Federated Source through the ${admin-console}:
+Configure an existing NSILI Federated Source through the {admin-console}:
 
-* Navigate to the *${admin-console}*.
-* Select the *${ddf-catalog}* application.
+* Navigate to the *{admin-console}*.
+* Select the *{ddf-catalog}* application.
 * Select the *Sources* tab.
 * Select the name of the source to edit.
 
-See <<{reference-prefix}NSILI_Federated_Source,NSILI Federated Source configurations>> for all possible configurations.
+include::reference:partial$NSILI_Federated_Source.adoc[]
